@@ -1,6 +1,9 @@
 # Hacktoberfest_GDSC_GEU
 Congratulations on taking your first step towards Open source!
 
+Name - sujal gupta
+instagram - SujalGupta244
+=======
 My first PR!
 =======
 
@@ -19,4 +22,3 @@ Here you can connect with speakers of todays session-
 btech kr rha hu !!! enough for a joke<>>>>>
 
 Hactober fest!!!!!!!
-
