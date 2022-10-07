@@ -10,6 +10,7 @@ Tanuj agarwal
 Submit just 4 pull request to earn cool swags🔥🔥🔥
 =======
 Lets Begin with Hacktoberfest!
+Rajat Singh Samant
 
 Here you can connect with speakers of todays session-
 1. Soumili Tapadar - https://www.linkedin.com/in/soumili-tapadar-1804/
